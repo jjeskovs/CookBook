@@ -1,0 +1,14 @@
+{
+  "name": "recepieapp",
+  "version": "1.0.0",
+  "description": "The app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JJ",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.0.0"
+  }
+}
